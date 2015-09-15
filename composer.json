@@ -1,0 +1,6 @@
+{
+    "name": "a5sys/overlay-bundle",
+    "autoload": {
+        "psr-4": { "A5sys\\OverlayBundle\\": "" }
+    }
+}
