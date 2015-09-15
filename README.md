@@ -10,7 +10,7 @@ This bundle requires:
 
 # Installation
 
-        composer requier a5sys/overlay-bundle
+        composer require a5sys/overlay-bundle
 
 In AppKernel.php
 
