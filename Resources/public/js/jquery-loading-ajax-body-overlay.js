@@ -32,6 +32,6 @@ jQuery.Loading.prototype.resize =  function() {
 //bind the overlay to the ajax events
 $(document).bind("ajaxSend", function () {
     $('body').loading('start');
-}).bind("ajaxComplete", function () {
+}).bind("ajaxStop", function () {
     $('body').loading('stop');
 });
