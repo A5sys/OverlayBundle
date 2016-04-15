@@ -20,7 +20,7 @@ In AppKernel.php
 
 At the beginning of your body:
 
-        {% include '@Overlay/overlay.html.twig' %}
+        {% include '@Overlay/overlay-full.html.twig' %}
 
 The css to include:
 
